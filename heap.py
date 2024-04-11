@@ -11,3 +11,6 @@ print(h)
 
 heapq.heappop(h)
 print(h)
+
+heapq.heapreplace(h,12)
+print(h)
